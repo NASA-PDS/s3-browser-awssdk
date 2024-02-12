@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/NASA-PDS/<REPLACE-THIS>",
   "dependencies": {
-    "@aws-sdk/client-cognito-identity": "^3.278.0",
+    "@aws-sdk/client-cognito-identity": "^3.511.0",
     "@aws-sdk/client-s3": "^3.278.0",
     "@aws-sdk/credential-providers": "^3.278.0",
     "react": "^18.2.0",
